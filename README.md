@@ -4,3 +4,8 @@ Este repositorio contiene los temas y ejemplos de código del libro "JavaScript:
 
 ## Contenido
 1. **Introducción a JavaScript**
+
+## Contacto
+
+Para cualquier pregunta o comentario, no dudes en ponerte en contacto:
+- Email: mick.ortega.g@gmail.com
